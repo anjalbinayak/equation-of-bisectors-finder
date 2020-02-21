@@ -41,8 +41,8 @@ calculate.addEventListener("click", function(){
 
 	console.log(slope1 , slope2);
 
-	result.innerHTML += buildEquation(bisector1) + "<br>";
-	result.innerHTML += buildEquation(bisector2);
+	result.innerHTML = buildEquation(bisector1) + "<br>" + buildEquation(bisector2);;
+	
 
 
 });

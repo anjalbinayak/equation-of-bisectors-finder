@@ -1,0 +1,22 @@
+.equation{
+	padding:20px;	
+}
+
+.equation input{
+	padding:05px;
+	width:5%;
+	margin:2px;
+}
+.playground{
+	background:#b1b1b18a;
+	padding:30px;
+	border-radius:10px;
+}
+
+#calculate{
+	background: #d87777;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 1px 2px 5px rgba(0,0,0,.6);
+}
